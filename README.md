@@ -62,13 +62,13 @@ summary header and a Footer.
 - **IBM Cognos Analytics**  
 - [Other tools - e.g. Excel, Ms.Word etc.]  
 - **Datasets** (https://www.kaggle.com/datasets/devsubhash/fitness-trackers-products-ecommerce)  
-- **PDF / Document Tools** (Ms Word.)  
+- **PDF** - https://docs.google.com/document/d/1K4wiIRLYllo8zobBbwtIGKWpfJ3imv3vD06-XB_jnSE/edit?usp=sharing
 
 ---
 
 ## Learnings -
--Happy to learn from such a Calm teacher and knowing the Power of IBM Cognos Anaytics in the Data Sceince world.
--Thank You.
+**Happy to learn from such a Calm teacher and knowing the Power of IBM Cognos Anaytics in the Data Sceince world.
+Thank You.**
 
 
 
