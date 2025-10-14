@@ -50,21 +50,6 @@ summary header and a Footer.
 
 ---
 
-**Objectives:**
-- To perform data analysis per problem statement  
-- To build reports and do Analysis using IBM Cognos  
-- To interpret and present insights in a business context  
-
----
-
-## Technologies & Tools
-
-- **IBM Cognos Analytics**  
-- [Other tools - e.g. Excel, Ms.Word etc.]  
-- **Datasets** (https://www.kaggle.com/datasets/devsubhash/fitness-trackers-products-ecommerce)  
-- **PDF** - https://drive.google.com/file/d/1xTr2nTJ6bNBU1fmLrTM5bhOb8z4MVsjD/view?usp=sharing
-
----
 
 ## Learnings -
 **Happy to learn from such a Calm teacher and knowing the Power of IBM Cognos Anaytics in the Data Sceince world.
