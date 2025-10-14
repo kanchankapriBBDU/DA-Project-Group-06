@@ -1,7 +1,7 @@
 #  **DA-Project-Group-06**
 
-##  **Project Title:**  
-### **Fitness Tracker Products Ecommerce**  
+##  **Project Title:**  ### **Fitness Tracker Products Ecommerce**  
+
 *(Analysis of 10 Problem Statements & Learning IBM Cognos Throughout the Project)*
 
 ---
