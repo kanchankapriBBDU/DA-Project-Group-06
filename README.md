@@ -1,6 +1,6 @@
 # DA-Project-Group-06
 
-**Project Title:** Fitness Tracker Prducts Ecommerce. (Analysis of 10 Problem Statements & Learning IBM Cognos, Throughout The Project. )
+**Project Title:** Fitness Tracker Prducts Ecommerce. **(Analysis of 10 Problem Statements & Learning IBM Cognos, Throughout The Project. )**
 
 **Submit By:** Group 06.
 
@@ -67,3 +67,7 @@ summary header and a Footer.
 
 ## Learnings -
 **Happy to learn from such a Calm teacher. Overall Now, We have seen the Power of IBM Cognos Anaytics in the Data Sceince world.**
+
+
+## Submission Date
+**14-10-15**
