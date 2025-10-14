@@ -2,7 +2,7 @@
 
 **Project Title:** Fitness Tracker Prducts Ecommerce. (Analysis of 10 Problem Statements & Learning IBM Cognos, Throughout The Project. )
 
-**Submit By:** Kanchan Kapri.
+**Submit By:** Group 6.
 
 **Submited to** : Ayush Chand .
 
