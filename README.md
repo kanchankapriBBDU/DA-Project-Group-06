@@ -8,7 +8,7 @@
 ---
 
 ### **Submitted By:**  
-**Kanchan Kapri**
+**Group -06**
 
 ### **Submitted To:**  
 **Ayush Chand**
@@ -18,7 +18,7 @@
 ##  **Overview**
 
 This project, assigned by **IBM Faculty**, involves the **analysis of 10 problem statements** using **IBM Cognos Analytics** for business intelligence and reporting.  
-The main goal is to derive **meaningful insights** from datasets and present them using **dashboards and analytical reports**.
+The main goal is to derive **meaningful insights** from datasets and present them using **analytical reports**.
 
 ---
 
