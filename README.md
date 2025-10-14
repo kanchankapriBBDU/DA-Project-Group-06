@@ -1,6 +1,6 @@
 # DA-Project-Group-06
 
-**Project Title:** Analysis of 10 Problem Statements & Learning IBM Cognos, Throughout The Project. 
+**Project Title:** Fitness Tracker Prducts Ecommerce. (Analysis of 10 Problem Statements & Learning IBM Cognos, Throughout The Project. )
 
 **Submit By:** Kanchan Kapri.
 
