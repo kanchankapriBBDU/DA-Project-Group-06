@@ -62,7 +62,7 @@ summary header and a Footer.
 - **IBM Cognos Analytics**  
 - [Other tools - e.g. Excel, Ms.Word etc.]  
 - **Datasets** (https://www.kaggle.com/datasets/devsubhash/fitness-trackers-products-ecommerce)  
-- **PDF** - https://docs.google.com/document/d/1K4wiIRLYllo8zobBbwtIGKWpfJ3imv3vD06-XB_jnSE/edit?usp=sharing
+- **PDF** - https://drive.google.com/file/d/1xTr2nTJ6bNBU1fmLrTM5bhOb8z4MVsjD/view?usp=sharing
 
 ---
 
